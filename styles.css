@@ -3,7 +3,7 @@
 	box-sizing:border-box;
 }
 
-.container{
+.holder{
 	height:100vh;
 	width:100vw;
 	display:flex;
@@ -19,7 +19,7 @@
 	height:10rem;
 	width:10rem;
 	background-color:white;
-	border:black;
+	
 	
 }
 
