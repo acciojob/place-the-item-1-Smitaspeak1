@@ -8,7 +8,7 @@
 	width:100vw;
 	display:flex;
 	flex-direction:row;
-	justify-content:space-evenly;
+	justify-content:space-between;
 	flex-wrap:wrap;
 	background-color:skyblue;
 	align-items:center;
@@ -17,9 +17,10 @@
 
 .item{
 	height:10rem;
-	width:33.3333333%;
+	width:10rem;
 	background-color:white;
 	border:black;
+	
 }
 
 
